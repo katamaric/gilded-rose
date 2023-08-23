@@ -1,0 +1,15 @@
+{
+  "name": "gildedrose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine ./js-jasmine/spec/gilded_rose_spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
